@@ -1,0 +1,7 @@
+faire un block de stone et un ou deux autre block
+
+faire des parametre de son, de resolution et plein ecran
+
+faire les premier animaux
+
+agranfir la map
